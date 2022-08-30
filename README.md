@@ -1,1 +1,1 @@
-# TCP-Communication-System-between-ClienT-sERVER
+# TCP-Communication-System-between-Client and Server
